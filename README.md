@@ -7,7 +7,7 @@ I'm an aspiring software developer studying Computer Science at the University o
 
 ---
 
-<img width="300px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/bingebenchmark.svg"/>
+<img width="220px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/bingebenchmark.svg"/>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -19,14 +19,14 @@ I'm an aspiring software developer studying Computer Science at the University o
 A website for finding out how TV show ratings change over time. Takes data from IMDB, The Movie Database and more to answer the question "Does TV show X get better?"
 
 <div style="display:flex">
-<img width="300px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/bingebenchmark1.jpg"/>
-<img width="300px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/bingebenchmark2.jpg"/>
-<img width="300px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/bingebenchmark3.jpg"/>
+<img width="200px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/bingebenchmark1.jpg"/>
+<img width="200px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/bingebenchmark2.jpg"/>
+<img width="200px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/bingebenchmark3.jpg"/>
 </div>
 
 ---
 
-# Sidetabs
+## Sidetabs
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,7 +35,7 @@ A website for finding out how TV show ratings change over time. Takes data from 
 A Firefox extension for displaying the tabs in the sidebar. Not a original idea, but I made this for myself, wanting something that behaved like native Firefox, and looked great. Sidetabs is available on the [Firefox Add-ons Marketplace](https://addons.mozilla.org/en-US/firefox/addon/sidetabs/).
 
 <div style="display:flex">
-<img width="300px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/sidetabs1.jpg"/>
-<img width="300px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/sidetabs2.jpg"/>
-<img width="300px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/sidetabs3.jpg"/>
+<img width="200px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/sidetabs1.jpg"/>
+<img width="200px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/sidetabs2.jpg"/>
+<img width="200px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/sidetabs3.jpg"/>
 </div>
