@@ -35,8 +35,8 @@ A website for finding out how TV show ratings change over time. Takes data from 
 A Firefox extension for displaying the tabs in the sidebar. Not a original idea, but I made this for myself, wanting something that behaved like native Firefox, and looked great. Sidetabs is available on the [Firefox Add-ons Marketplace](https://addons.mozilla.org/en-US/firefox/addon/sidetabs/).
 
 <div style="display:flex">
-<img width="200px" src="https://github.com/user-attachments/assets/d67faa15-0d03-484a-a4e1-6245dc66d2d7"/>
-<img width="200px" src="https://github.com/user-attachments/assets/330b55f9-cac8-41c8-84c1-821e43a87041"/>
-<img width="200px" src="https://github.com/user-attachments/assets/c548958b-ca4d-4a64-bbef-19dc60c59988"/>
+<img width="200px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/sidetabs1.jpg"/>
+<img width="200px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/sidetabs2.jpg"/>
+<img width="200px" src="https://raw.githubusercontent.com/jeb5/jeb5/main/sidetabs3.jpg"/>
 
 </div>
